@@ -12,7 +12,7 @@ Installation
 Running it
 ----------
 
-Jeeves is run as a linux service. It supports the stand stop|start|restart as
+Jeeves is run as a linux service. It supports the standard stop|start|restart as
 follows:
 
 sudo jeeves start|stop|restart
