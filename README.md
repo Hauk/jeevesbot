@@ -15,7 +15,7 @@ Running it
 Jeeves is run as a linux service. It supports the standard stop|start|restart as
 follows:
 
-sudo jeeves start|stop|restart
+jeeves start|stop|restart
 
 Plugins are loaded from jeeves/plugins on startup.
 
